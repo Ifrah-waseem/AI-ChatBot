@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated chat history files
+chat_history_*.json
