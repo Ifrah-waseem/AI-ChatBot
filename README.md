@@ -25,7 +25,7 @@ Both versions share the same core logic: session-based chat history saved to JSO
 ├── chat.py             # Terminal version of the chatbot
 ├── app.py              # Streamlit (web) version of the chatbot
 ├── requirements.txt    # Python dependencies
-├── .env                # Environment file (holds API key) — not included in repo
+├── .env                # Environment file 
 └── chat_history_*.json # Auto-generated per-session history files
 ```
 
